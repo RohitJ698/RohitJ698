@@ -52,7 +52,7 @@ I'm an aspiring Linux Administrator currently learning and practicing various Li
 
 <h2>🔗 Connect with Me</h2>
 <p align="center">
-  <a href="mailto:jadhavrohit@gmail.com" style="text-decoration: none; margin-right: 15px;">
+  <a href="mailto:jadhavrohit0698@gmail.com" style="text-decoration: none; margin-right: 15px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/rohit-jadhav-347453241/" style="text-decoration: none;">
